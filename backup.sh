@@ -7,7 +7,7 @@ get_timestamp() {
 
 # Set the source and target directories
 source_dir="/Users/nabilelbajdi/backup_script"
-target_dir="/Users/nabilelbajdi/backups"
+target_dir="/Users/nabilelbajdi/backup_script/backups"
 
 # Set the name of the backup directory to a timestamp
 backup_dir="$target_dir/$(get_timestamp)"
