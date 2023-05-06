@@ -1,4 +1,4 @@
-# Backup script in Bash
+# Backup Script in Bash
 
 - Given a source directory and a target, takes a backup of source to target.
 - Handles targets both local or remote (ssh).
